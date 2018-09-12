@@ -2,6 +2,7 @@
 This library serves to organize the reading resources on Monetary Policy. Links are provided below and a few other resources are in the /docs directory.
 
 ## TO READ AND ADD
+* [Beige Book](https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20180912.pdf)
 * [An Estimate of the Long-Term Neutral Rate of Interest](https://www.federalreserve.gov/econres/notes/feds-notes/estimate-of-the-long-term-neutral-rate-of-interest-20180905.htm) -- September, 2018
 * [US Corporations' Repatriation of Offshore Profits](https://www.federalreserve.gov/econres/notes/feds-notes/us-corporations-repatriation-of-offshore-profits-20180904.htm) -- September 2018
 * [The Monetary Policy Response to Uncertain Inflation Persistence](https://www.federalreserve.gov/econres/notes/feds-notes/monetary-policy-response-to-uncertain-inflation-persistence-20180829.htm) -- August, 2018
