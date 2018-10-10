@@ -1,6 +1,6 @@
 # Questions
 
-Separated by question:
+Separated by topic:
 * [Inflation](#inflation)
 * [Unemployment](#labor)
 * [Financial Markets](#finance)
