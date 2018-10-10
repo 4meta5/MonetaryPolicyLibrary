@@ -126,6 +126,7 @@ Metrics: {
 
 ### Rules <a name="rules"></a>
 * [Complexities of Monetary Policy Rules from July MPR](https://www.federalreserve.gov/monetarypolicy/2018-07-mpr-part2.htm#xmonetarypolicyrulesandtheirroleinth-5feb0ebe)
+* [Challenges Associated with Using Rules to Make Monetary Policy](https://www.federalreserve.gov/monetarypolicy/challenges-associated-with-using-rules-to-make-monetary-policy.htm)
 
 ### Implementation <a name="implementation"></a>
 At [September's Meeting](https://www.federalreserve.gov/monetarypolicy/files/monetary20180926a1.pdf), the Board of Governors votes unanimously...
