@@ -26,17 +26,13 @@ Sections and Trends: <br>
     * [Implementation](#implementation)
 
 ## Inflation <a name="inflation"></a>
-* Producer Prices today
-* Consumer Prices tomorrow
-* import prices Friday
-* Consumer Inflation Expectations Friday
 * Inflation may no longer be the first or best indicator of a tight labor market and rising pressures on resource utilization. Part of the reason inflation sends a weaker signal is undoubtedly the achievement of anchored inflation expectations and the related flattening of the Phillips curve.14 Whatever the cause, in the run-up to the past two recessions, destabilizing excesses appeared mainly in financial markets rather than in inflation. Thus, risk management suggests looking beyond inflation for signs of excesses. [Powell at Jackson Hole](https://www.federalreserve.gov/newsevents/speech/powell20180824a.htm)
 
 ### Inflation Expectations <a name="expectations"></a>
 * Consumer confidence unexpectedly jumped in August to a cyclical high, suggesting that spending momentum may exceed current forecasts. The surge in August — the confidence index reached the highest level since late 2000 — came in well above consensus projections and stands in contrast to the decline in the University of Michigan survey. [August 29, Bloomberg](https://newsletters.briefs.bloomberg.com/document/MklrS9P3Q1u3mQi2iNAqIw--_2lz2ueyi4g6z35jops/in-focus)
 
 ### Hurricane Florence <a name="florence"></a>
-* transitory; may need to focus on core measures instead of headline)
+* transitory; may need to focus on core measures instead of headline
 
 ### Oil prices <a name="energy"></a>
 * Oil prices have climbed rapidly over the past year, reflecting both supply and demand factors. Although higher oil prices are likely to restrain household consumption in the United States, much of the negative effect on GDP from lower consumer spending is likely to be offset by increased production and investment in the growing U.S. oil sector. Consequently, higher oil prices now imply much less of a net overall drag on the economy than they did in the past, although they will continue to have important distributional effects. The negative effect of upward moves in oil prices should get smaller still as U.S. oil production grows and net oil imports decline further. [mpr-summary](https://www.federalreserve.gov/monetarypolicy/2018-07-mpr-summary.htm)
@@ -50,8 +46,6 @@ Metrics = {
 		laborCostPressures: {average hourly earnings, employment cost index}; //productivity
 }
 ```
-* JOLTs surprise
-* NFIB Small Business Optimism
 * lack of skilled labor; greater labor-cost pressures should catalyze productivity growth
 * "increasing labor scarcity is finally driving up labor costs. In turn, this will increase confidence that 2% inflation can indeed be sustained."-- Bloomberg Econ Brief 9/10
 
@@ -67,15 +61,7 @@ Metrics = {
 * Among prime-age workers, the employment-to-population ratio is 79.3 percent, up almost 1 percentage point over the past year. These developments are heartening, suggesting the tight labor market is providing employment opportunities to more Americans.
 *  Labor force participation rates (LFPRs) for men and women between 25 and 54 years old--that is, the share of these individuals either working or actively seeking work--trended lower between 2000 and 2013. Those trends likely reflect numerous factors, including a long-run decline in the demand for workers with lower levels of education and an increase in the share of the population with some form of disability. By contrast, the prime-age LFPR has increased notably since 2013, and the share of nonparticipants who report wanting a job remains above pre-recession levels. Thus, some continuation of the recent increase in the prime-age LFPR may be possible if labor demand remains strong. [mpr-summary](https://www.federalreserve.gov/monetarypolicy/2018-07-mpr-summary.htm)
 
-## Financial Markets <a name="finance"></a>
-* Corporate credit spreads are very narrow and equity valuations are elevated relative to historical patterns
 
-### Leveraged Loans <a name="levfin"></a>
-* Rising risks are notable in the corporate sector, where low spreads and loosening credit terms are mirrored by rising indebtedness among corporations that could be vulnerable to downgrades in the event of unexpected adverse developments. Leveraged lending is again on the rise; spreads on leveraged loans and the securitized products backed by those loans are low, and the Board's Senior Loan Officer Opinion Survey on Bank Lending Practices suggests that underwriting standards for leveraged loans may be declining to levels not seen since 2005. [Brainard](https://www.federalreserve.gov/newsevents/speech/brainard20180912a.htm) -- September 12, 2018
-
-### Flattening Yield Curve <a name="yield"></a>
-* One reason the term premium may be lower than in the past is the changed correlation between stock and bond returns, likely associated with changes in expected inflation outcomes.18 The other driver of the low level of the term premium globally is the asset purchases of central banks in several major economies.19 In this case, if the term premium rises as the effect of asset purchase programs diminishes, the effect may be to forestall an inversion of the long-dated yield curve. [Brainard](https://www.federalreserve.gov/newsevents/speech/brainard20180912a.htm) -- September 12, 2018
-* "...inferring economic causality from statistical correlations was not appropriate. A number of global factors were seen as contributing to downward pressure on term premiums, including central bank asset purchase programs and the strong worldwide demand for safe assets." [August minutes](https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20180801.pdf)
 ## GDP <a name="gdp"></a>
 ```
 Metrics: {
@@ -109,6 +95,16 @@ Metrics: {
 
 ### USD <a name="usd"></a>
 * inextricably linked to [trade](#trade) (define the relation)
+
+## Financial Markets <a name="finance"></a>
+* Corporate credit spreads are very narrow and equity valuations are elevated relative to historical patterns
+
+### Leveraged Loans <a name="levfin"></a>
+* Rising risks are notable in the corporate sector, where low spreads and loosening credit terms are mirrored by rising indebtedness among corporations that could be vulnerable to downgrades in the event of unexpected adverse developments. Leveraged lending is again on the rise; spreads on leveraged loans and the securitized products backed by those loans are low, and the Board's Senior Loan Officer Opinion Survey on Bank Lending Practices suggests that underwriting standards for leveraged loans may be declining to levels not seen since 2005. [Brainard](https://www.federalreserve.gov/newsevents/speech/brainard20180912a.htm) -- September 12, 2018
+
+### Flattening Yield Curve <a name="yield"></a>
+* One reason the term premium may be lower than in the past is the changed correlation between stock and bond returns, likely associated with changes in expected inflation outcomes.18 The other driver of the low level of the term premium globally is the asset purchases of central banks in several major economies.19 In this case, if the term premium rises as the effect of asset purchase programs diminishes, the effect may be to forestall an inversion of the long-dated yield curve. [Brainard](https://www.federalreserve.gov/newsevents/speech/brainard20180912a.htm) -- September 12, 2018
+* "...inferring economic causality from statistical correlations was not appropriate. A number of global factors were seen as contributing to downward pressure on term premiums, including central bank asset purchase programs and the strong worldwide demand for safe assets." [August minutes](https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20180801.pdf)
 
 ## Policy <a name="policy"></a>
 * "This toolkit included threshold-based forward-guidance policies, in which the Committee communicates that the federal funds rate will remain at the ELB until either inflation or the unemployment rate reaches a certain threshold" [August minutes intro](https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20180801.pdf)
